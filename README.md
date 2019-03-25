@@ -11,7 +11,7 @@ Alexander Triassi
 ---
 ## Introduction
 This repository compiles basic Excel, Word, and LateX templates for
-Curricula Vitaes (CV), as well we a cheatsheet on resume/CV for best practices
+Curricula Vitaes (CV), as well as a cheatsheet on resume/CV for best practices
 (targeted towards students in the sciences/engineering).
 
 The three formats of resume offer different
@@ -33,7 +33,7 @@ Word:
 <img src="figs/resume_word_side.png"
      style="float: left; margin-right: 10px;" />
 
-Tables are used to set up the word document, with each row indicating a
+Tables are used to set up the word document, with each row indicating an
 information block. Table lines can be adjusted depending on desired margins by
 clicking and dragging the gridline.
 
@@ -53,7 +53,7 @@ depending on your version, preventing the need to have multiple copies of
 separate resume documents for different applications.
 
 ### Setting up LateX
-To set up a desktop version of LateX, follow (link to George's LaTeX tutorial).
+To set up a desktop version of LateX, follow (https://mit-becl.github.io/LaTeX-intro/).
 This is especially helpful to do when working on very large documents or if you
 want to be able to work offline.
 
@@ -83,10 +83,9 @@ multiple versions of your resume.
 ###
 
 ## Getting Started
-The files within this repository can be downloaded using the green "clone
-or download" button above.
+The files within this repository can be downloaded by clicking the blue "View on GitHub" button above and using the green "clone or download" button.
 
-Inside this repository contains:
+Inside this repository, you will find:
   - CV & Resume Guidelines  - guides on principles to remember when creating
   your resume
   - Word CV Template
