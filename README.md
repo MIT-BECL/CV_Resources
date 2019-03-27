@@ -86,7 +86,7 @@ multiple versions of your resume.
 The files within this repository can be downloaded by clicking the blue "View on GitHub" button above and using the green "clone or download" button.
 
 Inside this repository, you will find:
-  - [CV & Resume Guidelines](https://raw.githubusercontent.com/MIT-BECL/CV_Resources/master/CV_Resume_Guidelines.pdf)  - guides on principles to remember when creating
+  - [CV & Resume Guidelines](https://raw.githubusercontent.com/MIT-BECL/CV_Resources/blob/master/CV_Resume_Guidelines.pdf)  - guides on principles to remember when creating
   your resume
   - Word CV Template
   - Excel CV Template
