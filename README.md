@@ -83,7 +83,7 @@ multiple versions of your resume.
 ###
 
 ## Getting Started
-The files within this repository can be downloaded by clicking the blue "View on GitHub" button above and using the green "clone or download" button.
+The files within this repository can be found [here](https://github.com/MIT-BECL/CV_Resources/). 
 
 Inside this repository, you will find:
   - [CV & Resume Guidelines](https://github.com/MIT-BECL/CV_Resources/blob/master/CV_Resume_Guidelines.pdf)  - guides on principles to remember when creating
